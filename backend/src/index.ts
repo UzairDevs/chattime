@@ -24,5 +24,8 @@ app.post("/llmCall", async(req,res)=> {
 
 })
 
+app.post("/anotherLLMCall", async (req,res)=> {
+  //use another unified LLM Call.
+})
 
 app.listen(3000);

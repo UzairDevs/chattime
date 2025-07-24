@@ -6,7 +6,7 @@ export default function MiddleArea(){
     </h1>
     <div className="flex items-center ">
          <h2 className=" p-4 m-4 scroll-m-20 text-2xl font-semibold tracking-tight text-center">
-      A prompt away...
+      A prompt away from limitless possibilities...
     </h2>
     </div>
      
