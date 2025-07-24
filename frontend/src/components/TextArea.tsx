@@ -36,7 +36,7 @@ export default function TextArea(){
     
             {isLoading ?  (
             <div>
-              <Progress value={78} />
+              <Progress value={72} />
             </div>
                 ): (
             <h4 className="scroll-m-20 text-xl font-semibold tracking-tight">
